@@ -1,2 +1,6 @@
-# c-_InterFace
+# VB_InterFace
 인터페이스 여러가지 활용예제
+
+1. 1단계 인터페이스
+2. 2단계 인터페이스
+3. Ninject 인터페이스
